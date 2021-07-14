@@ -75,6 +75,7 @@ I will not make any changes to the instructions below, but **please use it at yo
 If you see the green check mark, congratulations, your auto check-in has been successfully set up.  
 Your script will now automatically run every day at your scheduled time, without you needing to have your browser open.
 
+
 **If you no longer want to check in automatically, you must manually disable your workflow or delete your Github repository.**
 ![](https://i.imgur.com/uw8qwTF.png)
 
