@@ -94,4 +94,4 @@ Instructions provided by https://github.com/am-steph/genshin-impact-helper
 5. Run the github action again and check for message in the channel you set the webhook in
    ![](https://i.imgur.com/0FMvJHW.png)
    
-To stop receiving Discord notifications, delete your DISCORD_WEBHOOK secret.
+To stop receiving Discord notifications, delete your DISCORD_WEBHOOK secret
